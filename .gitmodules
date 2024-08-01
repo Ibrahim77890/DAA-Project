@@ -7,3 +7,6 @@
 [submodule "DAA_PROJECT/DAA_PROJECT/CommonFiles"]
 	path = DAA_PROJECT/DAA_PROJECT/CommonFiles
 	url = https://github.com/Ibrahim77890/DAA-Project.git
+[submodule "DAA_PROJECT/GenomeAssemblyCppScripts"]
+	path = DAA_PROJECT/GenomeAssemblyCppScripts
+	url = https://github.com/Ibrahim77890/DAA-Project.git
